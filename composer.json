@@ -6,5 +6,11 @@
             "name": "MEXAHO3ABP"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.83",
+        "funct/funct": "^1.5"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^2.2"
+    }
 }
