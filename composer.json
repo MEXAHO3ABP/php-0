@@ -1,0 +1,10 @@
+{
+    "name": "glushets/php-0",
+    "description": "LearnPHP",
+    "authors": [
+        {
+            "name": "MEXAHO3ABP"
+        }
+    ],
+    "require": {}
+}
