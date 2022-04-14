@@ -6,6 +6,11 @@
             "name": "MEXAHO3ABP"
         }
     ],
+    "autoload": {
+      "files": [
+        "src/Runner.php"
+     ]
+    },
     "require": {
         "tightenco/collect": "^8.83",
         "funct/funct": "^1.5"
